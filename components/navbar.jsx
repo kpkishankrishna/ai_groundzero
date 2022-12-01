@@ -1,6 +1,4 @@
 import React from 'react'
-import { useEffect, useState, useContext } from 'react';
-import { useRouter } from 'next/router';
 import { useTheme } from 'next-themes';
 import Image from 'next/image';
 import Link from 'next/link';
